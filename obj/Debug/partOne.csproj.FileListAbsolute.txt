@@ -1,0 +1,8 @@
+C:\Users\lab_services_student\source\repos\partOne\partOne\obj\Debug\partOne.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\partOne\partOne\obj\Debug\partOne.csproj.SuggestedBindingRedirects.cache
+C:\Users\lab_services_student\source\repos\partOne\partOne\obj\Debug\partOne.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\partOne\partOne\bin\Debug\partOne.exe.config
+C:\Users\lab_services_student\source\repos\partOne\partOne\bin\Debug\partOne.exe
+C:\Users\lab_services_student\source\repos\partOne\partOne\bin\Debug\partOne.pdb
+C:\Users\lab_services_student\source\repos\partOne\partOne\obj\Debug\partOne.exe
+C:\Users\lab_services_student\source\repos\partOne\partOne\obj\Debug\partOne.pdb
